@@ -1,4 +1,15 @@
-# PREprojeto
+# Fit Fusion 
+### Site de saude e bem estar 
+
+
+
+##  Justificativa
+
+- Fornecer informações confiáveis e atualizadas sobre saúde, doenças, tratamentos, prevenção, bem-estar e nutrição. Isso pode incluir artigos, vídeos, infográficos e outros recursos educacionais.
+- Incentivar práticas saudáveis e fornecer orientações para melhorar a qualidade de vida dos usuários, como dicas de exercícios físicos, alimentação equilibrada, técnicas de relaxamento e cuidados com a saúde mental.
+## Produto
+
+- Software Web Fullstack e Aplicativo Mobile,  Construir um relacionamento contínuo com os usuários, oferecendo conteúdos relevantes e personalizados, bem como incentivando a adesão a programas de saúde física.
 
 
 <table>
