@@ -1,16 +1,22 @@
-# Fit Fusion 
+# 💪 Fit Fusion 💪
 ### Site de saude e bem estar 
 
 
+## Justificativa:
+Oferecemos tudo o que você precisa para alcançar seus objetivos de saúde e fitness. Nossa plataforma combina informações de especialistas em saúde, dicas de nutrição, programas de treinamento personalizados e muito mais. Seja você um entusiasta do fitness, um iniciante ou alguém em busca de uma transformação de estilo de vida, temos recursos para atender suas necessidades.
+ 
+## Objetivo:
+Transforme seu corpo, eleve sua mente – saúde e fitness começam com uma escolha.
 
-##  Justificativa
+## Produto: 
+ Software Web Full Stack e Aplicativo Mobile, construir um relacionamento contínuo com os usuários, oferecendo conteúdos relevantes e personalizados, bem como incentivando a adesão a programas de saúde física.
 
-- Fornecer informações confiáveis e atualizadas sobre saúde, doenças, tratamentos, prevenção, bem-estar e nutrição. Isso pode incluir artigos, vídeos, infográficos e outros recursos educacionais.
-- Incentivar práticas saudáveis e fornecer orientações para melhorar a qualidade de vida dos usuários, como dicas de exercícios físicos, alimentação equilibrada, técnicas de relaxamento e cuidados com a saúde mental.
-## Produto
+## Premissas:
+Nosso projeto é referente a saúde e academia, os visitantes do site estarão interessados em participar de programas de treinamento, consultar recursos de saúde e interagir com o conteúdo do site. Haverá parcerias com profissionais de saúde e fitness que fornecerão informações precisas e qualificadas para o site.
 
-- Software Web Fullstack e Aplicativo Mobile,  Construir um relacionamento contínuo com os usuários, oferecendo conteúdos relevantes e personalizados, bem como incentivando a adesão a programas de saúde física.
-
+## Restrições:
+Compatibilidade com Dispositivos:
+O site deve ser compatível com diferentes dispositivos e navegadores. Restrições relacionadas a compatibilidade podem impactar a experiência do usuário em diferentes plataformas.
 
 <table>
 <tr>
